@@ -1,24 +1,24 @@
 import React from "react";
-import profile_one_img from "./images/Profile_images/male_profile_img.png";
-import profile_two_img from "./images/Profile_images/female_profile_img.png";
+import profile_one_img from "./images/Profile_images/ethan.PNG";
+import profile_two_img from "./images/Profile_images/lydia.PNG";
 import "./Profile.css";
 const Profile = () => {
   const your_profile_details = [
     {
       id: 1,
       photo: profile_one_img,
-      name: "Dr.Rahul Achare",
+      name: "Dr. Ethan Montgomery",
       occupation: "Dental Surgeon BDS",
       description:
-        "Our clinic's Chief Medical Officer, Dr. Mark Hoffman has been working in this field of medical specialization since 2002. AColumbia medical school graduate, this",
+        "Dr. Ethan Montgomery is a highly skilled and dedicated dentist with over 15 years of experience in the field. He is known for his expertise in cosmetic dentistry, having completed advanced training in the field, and is passionate about creating beautiful smiles for his patients.",
     },
     {
       id: 2,
       photo: profile_two_img,
-      name: "Dr.Komal Achare",
+      name: "Dr. Lydia Bennett",
       occupation: "Dental Surgeon BDS",
       description:
-        "Our clinic's Chief Medical Officer, Dr. Mark Hoffman has been working in this field of medical specialization since 2002. AColumbia medical school graduate, this",
+        "Dr. Lydia Bennett is a compassionate and knowledgeable dentist committed to helping her patients achieve optimal oral health. She creates a welcoming environment, making patients feel at ease during their dental visits.",
     },
   ];
   return (
