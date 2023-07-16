@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.bb57bb2f.css",
-    "main.js": "/static/js/main.014d371e.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/slide_two.png": "/static/media/slide_two.a4dbd81b673d68d22509.png",
-    "static/media/ethan.PNG": "/static/media/ethan.3ce8d2b51f539c66623e.PNG",
-    "static/media/fontawesome-webfont.eot": "/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/slide3.jpg": "/static/media/slide3.7f50184b713a7af75a62.jpg",
-    "static/media/logo.png": "/static/media/logo.40bd431f7139272749a7.png",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/lydia.PNG": "/static/media/lydia.45d5d696bf09271e097e.PNG",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/about_img.webp": "/static/media/about_img.13bb375245f1a0305283.webp",
-    "static/media/footer_01.jpg": "/static/media/footer_01.8278da38b973ab9088fa.jpg",
-    "static/media/site_con.jpg": "/static/media/site_con.e7a6921b6a59c7cefc56.jpg",
-    "static/media/appointment_admin_img.png": "/static/media/appointment_admin_img.ead77caea6d44a2ccc4f.png",
-    "index.html": "/index.html",
-    "main.bb57bb2f.css.map": "/static/css/main.bb57bb2f.css.map",
-    "main.014d371e.js.map": "/static/js/main.014d371e.js.map"
+    "main.css": "/white-oak-dental/static/css/main.167ba2f3.css",
+    "main.js": "/white-oak-dental/static/js/main.16277b1e.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/white-oak-dental/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/slide_two.png": "/white-oak-dental/static/media/slide_two.a4dbd81b673d68d22509.png",
+    "static/media/ethan.PNG": "/white-oak-dental/static/media/ethan.3ce8d2b51f539c66623e.PNG",
+    "static/media/fontawesome-webfont.eot": "/white-oak-dental/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/white-oak-dental/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/slide3.jpg": "/white-oak-dental/static/media/slide3.7f50184b713a7af75a62.jpg",
+    "static/media/logo.png": "/white-oak-dental/static/media/logo.40bd431f7139272749a7.png",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/white-oak-dental/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/lydia.PNG": "/white-oak-dental/static/media/lydia.45d5d696bf09271e097e.PNG",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/white-oak-dental/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/about_img.webp": "/white-oak-dental/static/media/about_img.13bb375245f1a0305283.webp",
+    "static/media/footer_01.jpg": "/white-oak-dental/static/media/footer_01.8278da38b973ab9088fa.jpg",
+    "static/media/site_con.jpg": "/white-oak-dental/static/media/site_con.e7a6921b6a59c7cefc56.jpg",
+    "static/media/appointment_admin_img.png": "/white-oak-dental/static/media/appointment_admin_img.ead77caea6d44a2ccc4f.png",
+    "index.html": "/white-oak-dental/index.html",
+    "main.167ba2f3.css.map": "/white-oak-dental/static/css/main.167ba2f3.css.map",
+    "main.16277b1e.js.map": "/white-oak-dental/static/js/main.16277b1e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb57bb2f.css",
-    "static/js/main.014d371e.js"
+    "static/css/main.167ba2f3.css",
+    "static/js/main.16277b1e.js"
   ]
 }
