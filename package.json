@@ -1,5 +1,5 @@
 {
-  "homepage": "http://whiteoakdental.github.io/#",
+  "homepage": "https://whiteoakdental.github.io/White-Oak-Dental/",
   "name": "clinic_website",
   "version": "0.1.0",
   "private": true,
@@ -37,6 +37,7 @@
     "react-toastify": "^9.0.8",
     "slick-carousel": "^1.8.1",
     "styled-components": "^5.3.6",
+    "twilio": "^4.14.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

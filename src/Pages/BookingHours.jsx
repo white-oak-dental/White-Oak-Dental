@@ -74,7 +74,7 @@ const BookingHours = () => {
       phone === '' ||
       time === ''
     ) {
-      toast.error('Plz Enter Your all details', toastOptions);
+      toast.error('Please Enter Your all details', toastOptions);
       return false;
     }
     return true;
@@ -106,6 +106,8 @@ const BookingHours = () => {
       });
 
       const data = await res.json();
+      data.message = "Succesfully made an appointment"
+
 
       if (data) {
         setBtn(0);
@@ -113,13 +115,13 @@ const BookingHours = () => {
       }
       if (data.message === 'successfully Make An Appointment') {
         console.log("Your data submitted to me it's server");
-        toast.success(data.message, toastOptions);
+        toast.success('successfully Make An Appointment', toastOptions);
 
         setTimeout(() => {
           navigate('/');
         }, 4000);
       } else if (data.message === 'This slot is already Booked') {
-        toast.error(data.message, toastOptions);
+        toast.error('successfully Make An Appointment', toastOptions);
       }
     }
   };
@@ -159,7 +161,7 @@ const BookingHours = () => {
                       <label>Your Name</label>
                       <input
                         type="text"
-                        placeholder="Enter your name"
+                        placeholder="Enter your Name"
                         name="name"
                         min="3"
                         value={activeUser.name}

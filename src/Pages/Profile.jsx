@@ -28,7 +28,7 @@ const Profile = () => {
           <span>
             <i className="fa-solid fa-angles-right"></i>
           </span>
-          Meet Our Teem
+          Meet Our Team
         </h2>
         <div className="p_info_container">
           {your_profile_details.map((e, index) => (
