@@ -42,7 +42,7 @@
 }
 .profile_description {
   width: 86%;
-  text-align: justify;
+  text-align: center;
 }
 .p_info_container {
   display: flex;
