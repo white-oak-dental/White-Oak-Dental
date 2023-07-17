@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/White-Oak-Dental/static/css/main.b89e610e.css",
+    "main.css": "/White-Oak-Dental/static/css/main.a8ee370e.css",
     "main.js": "/White-Oak-Dental/static/js/main.35cd8dba.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/White-Oak-Dental/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/slide_two.png": "/White-Oak-Dental/static/media/slide_two.a4dbd81b673d68d22509.png",
@@ -17,11 +17,11 @@
     "static/media/site_con.jpg": "/White-Oak-Dental/static/media/site_con.e7a6921b6a59c7cefc56.jpg",
     "static/media/appointment_admin_img.png": "/White-Oak-Dental/static/media/appointment_admin_img.ead77caea6d44a2ccc4f.png",
     "index.html": "/White-Oak-Dental/index.html",
-    "main.b89e610e.css.map": "/White-Oak-Dental/static/css/main.b89e610e.css.map",
+    "main.a8ee370e.css.map": "/White-Oak-Dental/static/css/main.a8ee370e.css.map",
     "main.35cd8dba.js.map": "/White-Oak-Dental/static/js/main.35cd8dba.js.map"
   },
   "entrypoints": [
-    "static/css/main.b89e610e.css",
+    "static/css/main.a8ee370e.css",
     "static/js/main.35cd8dba.js"
   ]
 }
