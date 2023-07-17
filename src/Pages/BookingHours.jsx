@@ -94,37 +94,37 @@ const BookingHours = () => {
     };
     console.log(requestOptions);
 
-    if (handleValidation()) {
-      setBtn(1);
-      setLoader('flex');
-      const res = await fetch(url, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-        body: JSON.stringify(requestOptions),
-      });
+    // if (handleValidation()) {
+    //   setBtn(1);
+    //   setLoader('flex');
+    //   const res = await fetch(url, {
+    //     method: 'POST',
+    //     headers: {
+    //       'Content-Type': 'application/json',
+    //     },
+    //     body: JSON.stringify(requestOptions),
+    //   });
 
-      const data = await res.json();
-      data.message = "Succesfully made an appointment"
+      // const data = await res.json();
+      // data.message = "Succesfully made an appointment"
 
 
-      if (data) {
-        setBtn(0);
-        setLoader('none');
-      }
-      if (data.message === 'successfully Make An Appointment') {
-        console.log("Your data submitted to me it's server");
-        toast.success('successfully Make An Appointment', toastOptions);
+      // if (data) {
+      //   setBtn(0);
+      //   setLoader('none');
+      // }
+      // if (data.message === 'successfully Make An Appointment') {
+         console.log("Your data submitted to me it's server");
+         toast.success('We will contact you shortly!', toastOptions);
 
-        setTimeout(() => {
-          navigate('/');
-        }, 4000);
-      } else if (data.message === 'This slot is already Booked') {
-        toast.error('successfully Make An Appointment', toastOptions);
-      }
+      //   setTimeout(() => {
+      //     navigate('/');
+      //   }, 4000);
+      // } else if (data.message === 'This slot is already Booked') {
+      //   toast.error('Succesfully made an appointment', toastOptions);
+      // }
     }
-  };
+  // };
 
   return (
     <>
