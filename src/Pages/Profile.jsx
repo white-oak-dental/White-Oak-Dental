@@ -10,7 +10,7 @@ const Profile = () => {
       name: "Dr. Ethan Montgomery",
       occupation: "Dental Surgeon BDS",
       description:
-        "Dr. Ethan Montgomery is a highly skilled and dedicated dentist with over 15 years of experience in the field. He is known for his expertise in cosmetic dentistry, having completed advanced training in the field, and is passionate about creating beautiful smiles for his patients.",
+        "Dr. Ethan Montgomery, a dedicated dentist with 15+ years of experience, specializes in cosmetic dentistry. With advanced training and a passion for creating beautiful smiles, he is highly skilled in his field.",
     },
     {
       id: 2,
