@@ -6,7 +6,7 @@
   flex-direction: column;
   width: 100%;
   gap: 2rem;
-  background: #ffccbc;
+  background: #ffffff;
 }
 
 .profile_details {
@@ -87,7 +87,7 @@
   }
   .p_info_container {
     flex-direction: column;
-    margin-top: 39px;
+    margin-top: 400px;
     margin-bottom: 30px;
     height: 600px;
   }

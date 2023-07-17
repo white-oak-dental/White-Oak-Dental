@@ -72,12 +72,12 @@ const Home = () => {
               <p>
               With our best price guarantee, our dentist's office ensures that you receive exceptional dental services at the most competitive prices in the area.
               </p>
-              <HashLink
+              {/* <HashLink
                 to={"/#contact-us"}
                 style={{ textDecoration: "none", color: "#fff" }}
               >
                 <div className="transperent_btn">Read More</div>
-              </HashLink>
+              </HashLink> */}
             </div>
             <div className="basic_info" id="info_03">
               <h2>Our Hours</h2>
